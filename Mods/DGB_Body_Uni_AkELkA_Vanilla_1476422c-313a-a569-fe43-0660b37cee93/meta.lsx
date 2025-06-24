@@ -103,14 +103,6 @@
                             <attribute id="UUID" type="guid" value="a095fce4-a8c9-0e6c-1b17-5ee0dd04b21c"/>
                             <attribute id="Version64" type="int64" value="36028797018963974"/>
                         </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf"/>
-                            <attribute id="MD5" type="LSString" value="067c17f448308ead21abc597a32e604d"/>
-                            <attribute id="Name" type="LSString" value="Glow Ink - Body Tattoo - Clawstep - Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4968121"/>
-                            <attribute id="UUID" type="guid" value="f9ad1b39-b26e-b5b6-f79b-40d693b05faf"/>
-                            <attribute id="Version64" type="int64" value="36028797018963974"/>
-                        </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
@@ -120,15 +112,15 @@
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="DGB_Body_Uni_AkELkA_Vanilla_1476422c-313a-a569-fe43-0660b37cee93"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MD5" type="LSString" value="067c17f448308ead21abc597a32e604d"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Glow Ink - Body Tattoo - Vanilla - Dragonborn CC"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
-                    <attribute id="PublishHandle" type="uint64" value="0"/>
+                    <attribute id="PublishHandle" type="uint64" value="5037231"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="1476422c-313a-a569-fe43-0660b37cee93"/>
-                    <attribute id="Version64" type="int64" value="36028797018963968"/>
+                    <attribute id="Version64" type="int64" value="36028797018963974"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718543409"/>

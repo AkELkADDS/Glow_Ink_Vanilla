@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_A_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_B_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.062011719"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_C_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_D_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.062988281"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_E_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_F_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.18701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_G_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_H_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_I_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_J_Bhaal_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_K_Bhaal_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_BGreen"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Blue"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Fire"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Green"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Pink"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Purple"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_Red"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Decor_O_Karlach_White"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.31298828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_A_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_FB_Dots_B_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.43701172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.062011719"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.062988281"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Emerald"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.18701172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.18798828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Ice"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.31201172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.31298828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Ruby"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Decor_I_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Amethyst"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_BYTopaz"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Emerald"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_HTopaz"/>
+                    <attribute id="U1" type="float" value="0.68798828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Ice"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.81201172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Obsidian"/>
+                    <attribute id="U1" type="float" value="0.81298828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Ruby"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.93701172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_VNL_Tail_A_Dots_A_Sapphire"/>
+                    <attribute id="U1" type="float" value="0.93798828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.43798828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/DGB_VNL_FB_Decor_A_Atlas.dds"/>
+                    <attribute id="UUID" type="FixedString" value="d636e144-edc4-651c-31fb-f888d75c1a25"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="1024"/>
+                    <attribute id="Width" type="int32" value="1024"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
